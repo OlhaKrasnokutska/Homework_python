@@ -1,6 +1,6 @@
 number1 = int(input("Enter first number: "))
 number2 = int(input("Enter second number: "))
-operator_ = input('Enter operator "+", "-" or "*": ')
+operator_ = input('Enter operator "+", "-" or "*git": ')
 
 
 def add(num1, num2):
